@@ -1,0 +1,21 @@
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: #ffb6c1 !important;
+}
+
+body {
+  background: #ffb6c1 !important;
+}
+
+.container {
+  background: #ffb6c1 !important;
+}
+
+.card {
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.15);
+}
